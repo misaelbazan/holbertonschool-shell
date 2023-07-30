@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list | uniq
+sort list | uniq | head -n 4 | tail -n 3
