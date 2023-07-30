@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 sort | uniq -u | head -n 4 | tail -n 3
+=======
+sort | uniq | head -n 4 | tail -n 3
+>>>>>>> aca7ac0a9c050628e7aadfb00acbd3200bbe2148
